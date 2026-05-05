@@ -9,11 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=sudip0986&label=Profile%20views&color=0e75b6&style=flat" alt="sudip0986" /> 
 </p>
 
-<p align="left"> 
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/sudip0986?logo=twitter&style=for-the-badge" alt="sudip0986" />
-  </a> 
-</p>
+
 
 - ⚡ **Fun fact:** I think I am amazing.
 
@@ -21,10 +17,7 @@
 
 ### Connect with me:
 
-<p align="left">
-  <a href="https://twitter.com/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sudip0986" height="30" width="40" />
-  </a>
+
   <a href="https://www.linkedin.com/in/sudip-kumar-3a1a25342/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudip0986" height="30" width="40" />
   </a>
