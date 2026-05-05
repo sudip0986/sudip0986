@@ -22,7 +22,7 @@
 ### Connect with me:
 
 <p align="left">
-  <a href="https://twitter.com/sudip0986" target="_blank">
+  <a href="https://twitter.com/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sudip0986" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/sudip0986" target="_blank">
