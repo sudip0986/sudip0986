@@ -10,7 +10,7 @@
 </p>
 
 <p align="left"> 
-  <a href="https://twitter.com/sudip0986" target="_blank">
+  <a href="https://twitter.com/" target="_blank">
     <img src="https://img.shields.io/twitter/follow/sudip0986?logo=twitter&style=for-the-badge" alt="sudip0986" />
   </a> 
 </p>
@@ -25,7 +25,7 @@
   <a href="https://twitter.com/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sudip0986" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/sudip0986" target="_blank">
+  <a href="https://www.linkedin.com/in/sudip-kumar-3a1a25342/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudip0986" height="30" width="40" />
   </a>
   <a href="https://codeforces.com/profile/sudip0986" target="_blank">
