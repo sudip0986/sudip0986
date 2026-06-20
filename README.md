@@ -42,13 +42,11 @@ Represented <b>Dhaka International University</b> as a member of <b>Team DIU_DOT
 ---
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/sudip-kumar-3a1a25342/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="35" width="45" />
-</a>
+<h2>🌐 Professional Profile</h2>
 
-<a href="https://codeforces.com/profile/sudip0986" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="35" width="45" />
+<p align="center">
+<a href="https://www.linkedin.com/in/sudip-kumar-3a1a25342/" target="_blank">
+<img src="https://img.shields.io/badge/View%20My-LinkedIn%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
 
