@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Science & Engineering Student
+- 🎓 Computer Science & Engineering Student **CGPA:3.96**
 - 🌱 Currently learning **Machine Learning, Deep Learning & FastAPI**
 - 💻 Passionate about **Competitive Programming**
 - 🏆 Solving problems on Codeforces and exploring AI research
