@@ -17,7 +17,29 @@
 - ⚡ Fun fact: **I think I am amazing 😎**
 
 ---
+---
 
+# 🏆 Hall of Achievements
+
+<div align="center">
+
+🥇 <b>Champion — Fall Fest 2024 Programming Contest</b>
+
+🏅 Ranked <b>1st Place</b> in a department-wide competitive programming contest, outperforming fellow CSE students through strong algorithmic thinking and problem-solving skills.
+
+<br>
+
+🎖️ <b>60th Place — NDUB Inter University Programming Contest (IUPC) 2026</b>
+
+Represented <b>Dhaka International University</b> as a member of <b>Team DIU_DOT</b> and secured a Top-60 national ranking in one of Bangladesh's premier inter-university programming competitions.
+
+</div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sudip0986&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
 ## 🌐 Connect With Me
 
 <p align="left">
