@@ -35,9 +35,7 @@ Represented <b>Dhaka International University</b> as a member of <b>Team DIU_DOT
 
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sudip0986&theme=tokyonight&row=1&column=6" />
-</p>
+
 
 ---
 ## 🌐 Connect With Me
